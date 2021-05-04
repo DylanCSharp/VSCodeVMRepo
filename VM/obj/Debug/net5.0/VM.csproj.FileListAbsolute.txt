@@ -1,0 +1,16 @@
+/home/dylan/Dev/VM/bin/Debug/net5.0/VM
+/home/dylan/Dev/VM/bin/Debug/net5.0/VM.deps.json
+/home/dylan/Dev/VM/bin/Debug/net5.0/VM.runtimeconfig.json
+/home/dylan/Dev/VM/bin/Debug/net5.0/VM.runtimeconfig.dev.json
+/home/dylan/Dev/VM/bin/Debug/net5.0/VM.dll
+/home/dylan/Dev/VM/bin/Debug/net5.0/ref/VM.dll
+/home/dylan/Dev/VM/bin/Debug/net5.0/VM.pdb
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.csprojAssemblyReference.cache
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.AssemblyInfoInputs.cache
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.AssemblyInfo.cs
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.csproj.CoreCompileInputs.cache
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.dll
+/home/dylan/Dev/VM/obj/Debug/net5.0/ref/VM.dll
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.pdb
+/home/dylan/Dev/VM/obj/Debug/net5.0/VM.genruntimeconfig.cache
